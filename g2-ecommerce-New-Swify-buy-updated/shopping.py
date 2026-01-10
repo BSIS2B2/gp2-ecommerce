@@ -6,7 +6,7 @@ import streamlit as st
 # --- Configuration ---
 st.set_page_config(layout="wide", page_title="SwiftBuy Shop")
 
-# --- CSS Styling New ---
+# --- CSS Styling New Style ---
 st.markdown("""
 <style>
 .block-container { padding-top: 5rem; padding-bottom: 2rem; padding-left: 2rem; padding-right: 2rem; }
